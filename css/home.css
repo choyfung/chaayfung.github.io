@@ -3,7 +3,7 @@
 	height: 36px;
 	background: #00008B;
 	color: #F8F8FF;
-	text-indent: 30px;
+	text-indent: 48px;
 	font-size: 17px !important;
 	font-family: Arimo, sans-serif;
 	font: bold 33px "Open Sans", sans-serif;
@@ -12,7 +12,7 @@
 .headline a {
 	color: #FFFFFF;
 	position: relative;
-	top: 6px;
+	top: 7px;
 }
 
 .container {
@@ -23,7 +23,7 @@
 	width: 900px;
 	margin: 0 auto;
 	height: 60px;
-	border-bottom: #ebebeb solid 1px;
+	border-bottom: #ebebeb solid 2px;
 }
 
 .main-content {
