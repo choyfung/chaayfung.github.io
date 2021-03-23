@@ -1,7 +1,7 @@
 .headline {
 	width: 1000px;
 	height: 36px;
-	background: #00008B;
+	background: #3051b0;
 	color: #F8F8FF;
 	text-indent: 50px;
 	font-size: 17px !important;
@@ -48,7 +48,7 @@ a {
 }
 
 .current {
-	border-bottom: #00008B solid 2px;
+	border-bottom: #3051b0 solid 2px;
 }
 
 .header-nav li:hover {
@@ -60,7 +60,7 @@ a {
 	padding-top: 15px;
 	font-size: 25px;
 	padding-bottom: 0px;
-	text-indent: 30px;
+	text-indent: 25px;
 }
 
 .layout-content {
