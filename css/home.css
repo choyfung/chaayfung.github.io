@@ -450,7 +450,7 @@ a {
 #bio
 {
   display: block;
-  width: 80%;
+  width: 100%;
   background: #FFF;
   min-width: 500px;
   max-width: 1000px;
