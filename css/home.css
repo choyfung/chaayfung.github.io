@@ -56,10 +56,10 @@ a {
 }
 
 .layout-tile {
-	padding-top: 35px;
-	font-size: 28px;
-	padding-bottom: 10px;
-	text-indent: 30px;
+	padding-top: 15px;
+	font-size: 25px;
+	padding-bottom: 0px;
+	text-indent: 45px;
 }
 
 .layout-content {
