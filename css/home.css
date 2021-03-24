@@ -466,7 +466,6 @@ a {
 .bio_img
 {
   display: block;
-  
   margin-top: 20px;
   margin-right: 0px;
   margin-bottom: 0px;
@@ -495,9 +494,9 @@ a {
   display: inline-block;
   vertical-align: middle;
 	
-  /*border-style: solid;
+  border-style: solid;
   border-width: 1px;
-  border-color: blue;*/
+  border-color: blue;
 	
   margin-top: 0px;
   margin-right: 0px;
