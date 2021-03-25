@@ -460,6 +460,10 @@ a {
   padding-bottom: 10px;
   padding-left: 0px;
   text-align: justify;
+	
+  border-style: solid;
+  border-width: 1px;
+  border-color: green;
 }
 
 /* Bio image */
