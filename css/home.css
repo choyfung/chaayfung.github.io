@@ -490,6 +490,10 @@ a {
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+	
+  border-style: solid;
+  border-width: 1px;
+  border-color: yellow;
 }
 
 /* Bio introduction */
