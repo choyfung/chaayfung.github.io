@@ -536,6 +536,16 @@ a {
   color: #555;
 }
 
+/* Bio introduction h4 */
+.bio_intro h4
+{
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: #555;
+}
+
 p
 { font: 'trebuchet ms', arial, sans-serif;
   line-height: 1.3em;
