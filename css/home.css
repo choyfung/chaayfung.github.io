@@ -49,7 +49,7 @@
 	cursor: pointer;
 	list-style: none;
 	float: left;
-	height: 60px;
+	height: 40px; /* default: 60px */
 	line-height: 60px;
 	font-size: 15px;
 	padding-left: 10px;
