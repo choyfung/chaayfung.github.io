@@ -94,7 +94,7 @@ a {
 
 .subheading {
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 100px; /* original: 30px
 	color: #616161;
 	font-size: 18px;
 	font-weight: bold;
