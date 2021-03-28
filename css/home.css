@@ -34,9 +34,9 @@
 	border-bottom: #ebebeb solid 1px;
 	
 		
-	border-style: solid;
+	/* border-style: solid;
         border-width: 2px;
-        border-color: #FF00FF;
+        border-color: #FF00FF; */
 }
 
 .main-content {
@@ -56,9 +56,9 @@
 	padding-right: 10px;
 	
 			
-	border-style: solid;
+	/* border-style: solid;
         border-width: 2px;
-        border-color: #00FFFF;
+        border-color: #00FFFF; */
 }
 
 a {
