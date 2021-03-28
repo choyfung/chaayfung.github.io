@@ -23,7 +23,7 @@
 	background: #FFFFFF;
 	
 	border-style: solid;
-        border-width: 1px;
+        border-width: 2px;
         border-color: red;
 }
 
@@ -32,6 +32,11 @@
 	margin: 0 auto;
 	height: 60px;
 	border-bottom: #ebebeb solid 1px;
+	
+		
+	border-style: solid;
+        border-width: 2px;
+        border-color: #FF00FF;
 }
 
 .main-content {
@@ -49,6 +54,11 @@
 	font-size: 15px;
 	padding-left: 10px;
 	padding-right: 10px;
+	
+			
+	border-style: solid;
+        border-width: 2px;
+        border-color: #00FFFF;
 }
 
 a {
