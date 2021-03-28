@@ -30,7 +30,7 @@
 .header {
 	width: 900px;
 	margin: 0 auto;
-	height: 60px;
+	height: 40px; /* default: 60px */
 	border-bottom: #ebebeb solid 1px;
 	
 		
