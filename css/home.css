@@ -154,10 +154,6 @@ a {
 	margin: 0 auto;
 	position: relative;
 	margin-top: 40px;
-	
-        border-style: solid;
-        border-width: 2px;
-        border-color: blue;
 }
 
 .list-content img {
@@ -168,11 +164,19 @@ a {
 	width: 80px;
 	text-align: center;
 	height: initial;
+	
+        border-style: solid;
+        border-width: 2px;
+        border-color: blue;
 }
 
 .list-right {
 	position: relative;
 	margin-left: 0px;
+	
+	border-style: solid;
+        border-width: 2px;
+        border-color: green;
 }
 
 .list-words {
