@@ -22,9 +22,9 @@
 .container {
 	background: #FFFFFF;
 	
-	border-style: solid;
+	/*border-style: solid;
         border-width: 2px;
-        border-color: red; 
+        border-color: red; */
 }
 
 .header {
@@ -146,6 +146,10 @@ a {
 .publications-content {
 	padding-top: 20px;
 	padding-bottom: 60px;
+	
+	border-style: solid;
+        border-width: 2px;
+        border-color: red;
 }
 
 .list-content {
