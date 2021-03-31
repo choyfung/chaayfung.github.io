@@ -648,14 +648,14 @@ p.gallery
   border:1px solid #ccc;
   padding: 5px;
   box-shadow:2px 2px 3px #ccc;
-  margin-right:10px;
+  margin-right:5px;
 }
 
 .pub-text
 {
   display: inline-block;
   vertical-align: middle;
-  margin-left:10px;
+  margin-left:5px;
   width: 70%;
 }
 
