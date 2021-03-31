@@ -633,3 +633,43 @@ p.gallery
   color:#EE2C2C;
   margin: 0px 0px;
 }
+
+.pub
+{
+  display: block;
+  margin-bottom: 20px;
+}
+
+.pub img
+{
+  display: inline-block;
+  vertical-align: middle;
+  width: 25%;
+  border:1px solid #ccc;
+  padding: 1%;
+  box-shadow:2px 2px 3px #ccc;
+  margin-right:2%;
+}
+
+.pub-text
+{
+  display: inline-block;
+  vertical-align: middle;
+  width: 70%;
+}
+
+.pub-text h2
+{ 
+  font: normal 100% 'century gothic', arial;
+  color: #000;
+}
+
+.pub-text h3
+{
+   font: bold 100% 'century gothic', arial;
+}
+
+.pub-text p
+{
+   font: normal 80% 'century gothic', arial;
+}
