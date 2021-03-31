@@ -204,15 +204,19 @@ a {
 	position: relative;
 	margin-left: 0px;
 	
-	border-style: solid;
+	/*border-style: solid;
         border-width: 2px;
-        border-color: green;
+        border-color: green;*/
 }
 
 .list-words {
 	margin-left: 20px;
 	color: #444444;
 	width: 480px;
+	
+	border-style: solid;
+        border-width: 2px;
+  	border-color: green;
 }
 
 .list-content:after {
