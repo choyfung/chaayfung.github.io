@@ -657,6 +657,11 @@ p.gallery
   vertical-align: middle;
   margin-left:10px;
   width: 70%;
+	
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
 }
 
 .pub-text h2
