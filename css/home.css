@@ -750,6 +750,8 @@ p.gallery
 /* News list */
 #ul.news 
 {
+  width: 900px;	
+	
   list-style-type: square;
   
   border-style: solid;
