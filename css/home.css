@@ -759,9 +759,9 @@ p.gallery
   list-style-position: outside;
   
   margin-top: 3px;
-  margin-right: 10px;
+  margin-right: 0px;
   margin-bottom: 3px;
-  margin-left: 0px;
+  margin-left: 10px;
 	
   padding-top: 0px;
   padding-right: 0px;
