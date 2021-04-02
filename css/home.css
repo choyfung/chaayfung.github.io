@@ -748,7 +748,7 @@ p.gallery
 }
 
 /* News list */
-#ul.news 
+.news 
 {
   width: 900px;	
 	
