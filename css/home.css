@@ -748,10 +748,8 @@ p.gallery
 }
 
 /* News list */
-.news 
+#ul.news 
 {
-  width: 900px;	
-	
   list-style-type: square;
   
   border-style: solid;
@@ -761,7 +759,7 @@ p.gallery
   list-style-position: outside;
   
   margin-top: 3px;
-  margin-right: 0px;
+  margin-right: 10px;
   margin-bottom: 3px;
   margin-left: 0px;
 	
